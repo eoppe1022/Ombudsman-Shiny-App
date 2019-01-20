@@ -1,0 +1,12 @@
+name: Ombudsman
+title: Ombudsman
+username:
+account: evan-oppenheimer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 628503
+bundleId: 1799886
+url: https://evan-oppenheimer.shinyapps.io/Ombudsman/
+when: 1546826703.85313
+asMultiple: FALSE
+asStatic: FALSE
